@@ -30,3 +30,4 @@ public class HelloAndroidActivity extends Activity {
         params.setFlashMode(value);
     }
 }
+
